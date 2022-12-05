@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eventsourcing.Application.Sql\Eventsourcing.Application.Sql.csproj" />
+    <ProjectReference Include="..\Eventsourcing.DataAccess.Neo4j\Eventsourcing.DataAccess.Neo4j.csproj" />
+  </ItemGroup>
+
+</Project>

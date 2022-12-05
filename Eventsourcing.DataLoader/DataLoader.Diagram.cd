@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Eventsourcing.DataLoader.DataLoaderFacade">
+    <Position X="1.25" Y="2" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAIAAAAABAIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLoaderFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Eventsourcing.DataLoader.SqlDataLoader" Collapsed="true">
+    <Position X="1.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAAABBAAAAAAAAAAgAAEAAAIAAAgBAAAAABAACA=</HashCode>
+      <FileName>SqlDataLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Eventsourcing.DataLoader.GraphDataLoader" Collapsed="true">
+    <Position X="4" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAEAAAAAAAAAAAAAAAAAAgBAAAAAAAAAA=</HashCode>
+      <FileName>GraphDataLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Eventsourcing.DataLoader.TextCatalogDataSource" Collapsed="true">
+    <Position X="5.5" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAUAAAAQAAAAAAAAAAAQAAAQAAAAgAAAAEQBAAAAg=</HashCode>
+      <FileName>TextCatalogDataSource.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Eventsourcing.DataLoader.TextCatalogMapper" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAgQAAAAAAIAgAAAAAAIgAAAAAAA=</HashCode>
+      <FileName>TextCatalogMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

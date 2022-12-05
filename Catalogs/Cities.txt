@@ -1,0 +1,30 @@
+México,Cancún
+México,Ciudad de México
+México,San José del Cabo
+México,Puerto Vallarta
+México,Guadalajara
+México,Monterrey
+México,Hermosillo
+México,Acapulco
+México,Tijuana
+México,Cozumel
+México,Mérida
+México,Chihuahua
+México,Silao
+México,Morelia
+México,Mazatlán
+México,Villahermosa
+México,Veracruz
+México,Ixtapa
+México,Aguascalientes
+México,Querétaro
+México,San Luis Potosí
+México,Torreón
+México,Manzanillo
+México,Culiacán
+México,Oaxaca
+México,Puebla
+México,Zacatecas
+México,Ciudad Juárez
+México,La Paz
+México,Reynosa

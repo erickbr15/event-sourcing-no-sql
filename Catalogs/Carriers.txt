@@ -1,0 +1,8 @@
+AEMEXC,Aeroméxico Connect
+AEMAR,Aeromar
+AEMEX,Aeroméxico
+VOL,Volaris
+VIV,Viva Aerobus
+MAG,Magnicharters
+TAR,TAR
+INT,Interjet

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eventsourcing.DataAccess.Sql\Eventsourcing.DataAccess.Sql.csproj" />
+    <ProjectReference Include="..\Eventsourcing.Domain\Eventsourcing.Domain.csproj" />
+    <ProjectReference Include="..\Eventsourcing.Events\Eventsourcing.Events.csproj" />
+  </ItemGroup>
+
+</Project>

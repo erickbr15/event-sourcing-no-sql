@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Eventsourcing.DataAccess.Neo4j.Neo4jConnectionDriver">
+    <Position X="7.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABBAAAACEEABAAAAAAAAAAAAAIAAQAAAAAAQAAAAA=</HashCode>
+      <FileName>Neo4jConnectionDriver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Eventsourcing.DataAccess.Neo4j.Neo4jConnectionOptions">
+    <Position X="10.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAEAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAA=</HashCode>
+      <FileName>Neo4jConnectionOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Eventsourcing.DataAccess.Neo4j.Interfaces.ICommandRepository">
+    <Position X="2.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAACABAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICommandRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Eventsourcing.DataAccess.Neo4j.Interfaces.INeo4jCommandFactory">
+    <Position X="5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIBAAAAAAAAAAABAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\INeo4jCommandFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Eventsourcing.DataAccess.Neo4j.Interfaces.INeo4jConnectionDriver">
+    <Position X="7.75" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Interfaces\INeo4jConnectionDriver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
